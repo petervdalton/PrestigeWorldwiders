@@ -4,7 +4,7 @@ This is the home page for Users of our Worldwide services!
 
 <script>
 window.intercomSettings = {
-    app_id: APP_ID,
+    app_id: e3cmew4c,
     name: current_user_name, // Full name
     email: current_user_email, // Email address
     user_id: current_user_id // current_user_id
