@@ -18,4 +18,5 @@ s.src='https://widget.intercom.io/widget/' + APP_ID;
 var x=d.getElementsByTagName('script')[0];
 x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}
 else{w.addEventListener('load',l,false);}}})()
+</script>
 
