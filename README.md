@@ -5,8 +5,8 @@ This is the home page for Users of our Worldwide services!
 <script>
   window.intercomSettings = {
     app_id: "e3cmew4c",
-    name: "Jane Doe", // Full name
-    email: "customer@example.com", // Email address
+    name: "Peter Dalton", // Full name
+    email: "peter.dalton@intercom.io", // Email address
     created_at: 1312182000 // Signup date as a Unix timestamp
   };
   </script>
